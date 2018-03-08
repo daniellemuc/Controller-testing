@@ -1,0 +1,11 @@
+com\websystique\springmvc\security\SecurityConfiguration.class
+com\websystique\springmvc\controller\UsersRestController.class
+com\websystique\springmvc\configuration\WebInitializer.class
+com\websystique\springmvc\controller\InstanceConfig.class
+com\websystique\springmvc\service\UserService.class
+com\websystique\springmvc\security\CustomBasicAuthenticationEntryPoint.class
+com\websystique\springmvc\security\SecurityWebApplicationInitializer.class
+com\websystique\springmvc\configuration\CORSFilter.class
+com\websystique\springmvc\model\User.class
+com\websystique\springmvc\configuration\WebConfiguration.class
+com\websystique\springmvc\service\UserServiceImpl.class
